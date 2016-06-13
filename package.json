@@ -1,0 +1,19 @@
+{
+  "name": "djyou",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "genius-api": "^0.3.0",
+    "lodash": "^4.11.2",
+    "now": "^0.12.0",
+    "request": "^2.72.0",
+    "tropo-webapi": "^1.2.0"
+  }
+}
